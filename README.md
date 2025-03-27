@@ -13,7 +13,7 @@ Wang et al. (Under submission) Fast universal 3D lesion segmentation on chest-ab
 - Python (3.9.18), PyTorch (2.2.1), matplotlib (3.8.3), numpy (1.26.4), nibabel (5.2.1), SimpleITK (2.3.1).
 
 #### Download
-Execution file, configuration file, and model weights are download from the [zip](https://drive.google.com/) file.  (For reviewers, please use the password provided in the Code Availability section of the associated manuscript to decompress the file.)
+Execution file, configuration file, and model weights are download from the [zip](https://drive.google.com/file/d/1UosFFYij1gh3xr6Jd9I2LbjZ3zpchuWR/view?usp=drive_link) file.  (For reviewers, please use the password provided in the Code Availability section of the associated manuscript to decompress the file.)
 
 ## Steps
 #### 0.Installation

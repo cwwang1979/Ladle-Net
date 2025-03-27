@@ -15,11 +15,6 @@ Wang et al. (Under submission) Fast universal 3D lesion segmentation on chest-ab
 #### Download
 Execution file, configuration file, and model weights are download from the [zip](https://drive.google.com/) file.  (For reviewers, please use the password provided in the Code Availability section of the associated manuscript to decompress the file.)
 
-#### Link of Model Weights
-The pretrained weights for training from [Zenodo-The ULS23 Baseline Model](https://zenodo.org/records/10777532) Dataset901_Filtered_FSUP.
-The ULS23 Challenge weights for infernce are download from [drive](https://drive.google.com/drive/folders/1Vdhli6JPzNOIYuevkXQ7pHKPLoLZfe_v) Dataset400_FSUP_ULS.
-The Extend Study weights for infernce are download from [drive](https://drive.google.com/drive/folders/1Vdhli6JPzNOIYuevkXQ7pHKPLoLZfe_v) Dataset023_ULSabl.
-
 ## Steps
 #### 0.Installation
 

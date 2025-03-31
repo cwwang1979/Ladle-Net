@@ -1,7 +1,7 @@
 # Efficient Deep Ladle-Net
 
 ## Associated Publications
-Wang et al. (Under submission) Fast universal 3D lesion segmentation on chest-abdomen-pelvis computed tomography using deep learning
+Wang et al. (Under submission) Efficient Deep Ladle-Net for Fast Universal 3D Lesion Segmentation on Chest-Abdomen-Pelvis Computed Tomography
 
 ## Setup
 

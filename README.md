@@ -201,9 +201,9 @@ After training, the output directory structure will be:
 
 #### Training from pretrained weights
 To fine-tune the model from pretrained weights, follow the steps below: 
-The pretrained weights download link for the pretrained weights is provided in the file 'README.md' inside the zip archive. Alternatively, search The ULS23 Baseline Model on the Zenodo platform.
+The pretrained weights download link for the pretrained weights is provided in the file 'README.md' inside the zip archive. 
 
-After downloading the weights from Zenodo, locate the weights 'checkpoint_best.pth', which under "Dataset901_Filtered_FSUP" folder. Move this weights file to "fold_all" folder. A preprocessed version of 'dataset.json', 'dataset_fingerprint.json' and 'plans.json' is provided in the "./files" folder. Copy these three files into folder as following:
+After downloading the weights, locate the weights 'checkpoint_best.pth', which under "Dataset901_Filtered_FSUP" folder. Move this weights file to "fold_all" folder. A preprocessed version of 'dataset.json', 'dataset_fingerprint.json' and 'plans.json' is provided in the "./files" folder. Copy these three files into folder as following:
 ```
 ./LadleNet_results/Dataset001_ULSexd/nnUNetTrainer_ULS_500_000003__nnUNetPlans__3d_fullres_resenc/
 ├── fold_all/
